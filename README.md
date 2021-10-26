@@ -1,2 +1,2 @@
 # Titanic-Kaggle
-Titanic ML
+Titanic ML for kaggle website competition
